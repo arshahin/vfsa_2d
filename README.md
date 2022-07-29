@@ -1,6 +1,6 @@
 # vfsa_2d
 
-This package demonstrate who one can parametrize a VFSA optimization algorithm for few 2D objective functions.
+This package demonstrates how one can parametrize a VFSA optimization algorithm for few 2D objective functions.
 
 Simply run this code "vfsa_2d_v01.m" and it will find all the dependencies.
 
